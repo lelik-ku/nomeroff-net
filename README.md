@@ -3,18 +3,6 @@
 
 Nomeroff Net. Automatic numberplate recognition system. Version 4.0.0
 <br /><br />
-<blockquote style="border-left-color: #ff0000">
-Now there is a war going on in our country, russian soldiers are shooting at civilians in Ukraine. Enemy aviation launches rockets and drops bombs on residential quarters.
-<br>
-We are deeply thankful for the unprecedented wave of support for Ukraine from around the world. Below is a list of funds that help the Ukrainian army in the fight against Russian invaders:
-<ul>
-<li><a href="https://savelife.in.ua/en/">Come back alive</a></li>
-<li><a href="https://prytulafoundation.org/en/home/support_page">Serhiy Prytula Charity Foundation</a></li>
-</ul>
-
-<img src="https://github.com/ria-com/nomeroff-net/raw/master/public/images/russian_invasion_of_Ukraine.Pokrovsk.jpeg?raw=true" alt="Russian invasion in Ukraine. Donetsk region. Pokrovsk. 20.09.2024"/>
-Photo: Konstantin Liberov https://www.instagram.com/libkos/
-</blockquote>
 
 ## Introduction
 Nomeroff Net is an opensource python license plate 
